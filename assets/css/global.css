@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'Neue Machina';
+    src: url('/assets/fonts/neue-machina-regular.otf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+main {
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid #fff;
+    border-radius: 1rem;
+}
+
+main::before, main::after {
+    content: '';
+    background-image: url('/assets/img/background.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100vw;
+    height: 140vh;
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+main::after {
+    content: '';
+    top: auto;
+    left: auto;
+    bottom: 0;
+    right: 0;
+    transform: rotate(180deg);
+}
+
+@media screen and (min-width: 768px) {
+    main {
+        max-width: 1024px;
+        margin: 1rem auto;
+    }
+
+    main::before, main::after {
+        width: 70vw;
+    }
+}
