@@ -9,23 +9,23 @@
       "hardSkills": [
         {
           "name": "Html5",
-          "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/blob/main/data/imgs/html.png"
+          "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/html.png"
         },
         {
           "name": "CSS3",
-          "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/blob/main/data/imgs/css.png"
+          "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/css.png"
         },
         {
           "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/blob/main/data/imgs/js.png"
+          "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/js.png"
         },
         {
           "name": "Git",
-          "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/blob/main/data/imgs/git.png"
+          "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/git.png"
         },
         {
           "name": "GitHub",
-          "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/blob/main/data/imgs/github.png"
+          "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/github.png"
         }
       ],
       "softSkills": [
