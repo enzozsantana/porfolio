@@ -105,6 +105,11 @@
         "name": "Instagram Login Page",
         "url": "https://github.com/enzozsantana/instagram-pagina-login",
         "github": true
+      },
+        {
+        "name": "Calculadora",
+        "url": "https://github.com/enzozsantana/app-calculadora",
+        "github": true
       }
     ],
     "education": [
