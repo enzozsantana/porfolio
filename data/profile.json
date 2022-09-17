@@ -42,6 +42,11 @@
     ],
     "projects": [
       {
+        "name": "Trilha JS Developer - Pokedex",
+        "url": "https://github.com/enzozsantana/pokedex-js-developer",
+        "github": true
+      },
+      {
         "name": "Space Shooter",
         "url": "https://github.com/enzozsantana/space-shooter",
         "github": true
