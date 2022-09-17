@@ -113,6 +113,11 @@
       }
     ],
     "education": [
+       {
+        "name": "Formação JavaScript Developer",
+        "instituition" : "Digital Innovation One Inc.",
+        "url": "https://www.dio.me/certificate/FBA60816/share"
+      },
       {
         "name": "Formação HTML Web Developer",
         "instituition" : "Digital Innovation One Inc.",
