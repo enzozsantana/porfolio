@@ -21,7 +21,12 @@
 
 .skills .tools ul li img {
     max-width: 50px;
+    max-height: 50px;
     margin: .75rem;
+}
+
+.skills .tools ul li img:first-of-type{
+    margin-left: 0;
 }
 
 .skills .personal ul {
@@ -33,17 +38,13 @@
 }
 
 .skills .personal ul li {
-    margin-left: 1rem;
+    margin-right: 1rem;
     padding: .5rem 0;
 }
 
-.skills .personal ul li::after {
+.skills .personal ul li:not(:first-of-type)::before {
     content: ' | ';
-    margin-left: .5rem;
-}
-
-.skills .personal ul li:last-of-type::after {
-    content: '';
+    margin-right: .5rem;
 }
 
 @media screen and (min-width: 768px) {
