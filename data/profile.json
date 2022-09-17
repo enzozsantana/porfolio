@@ -110,27 +110,27 @@
     "education": [
       {
         "name": "Formação HTML Web Developer",
-        "instituiton" : "Digital Innovation One Inc.",
+        "instituition" : "Digital Innovation One Inc.",
         "url": "https://www.dio.me/certificate/B76CC90D/share"
       },
       {
         "name": "Certificado de autoridade: React",
-        "instituiton" : "DevMedia",
+        "instituition" : "DevMedia",
         "url": "https://www.devmedia.com.br/certificado/tecnologia/react/enzo-zanatta-de-santana"
       },
       {
         "name": "Certificado de autoridade: JavaScript",
-        "instituiton" : "DevMedia",
+        "instituition" : "DevMedia",
         "url": "https://www.devmedia.com.br/certificado/tecnologia/javascript/enzo-zanatta-de-santana"
       },
       {
         "name": "Certificado de autoridade: CSS",
-        "instituiton" : "DevMedia",
+        "instituition" : "DevMedia",
         "url": "https://www.devmedia.com.br/certificado/tecnologia/css/enzo-zanatta-de-santana"
       },
       {
         "name": "Certificado de autoridade: HTML",
-        "instituiton" : "DevMedia",
+        "instituition" : "DevMedia",
         "url": "https://www.devmedia.com.br/certificado/tecnologia/html/enzo-zanatta-de-santana"
       }
     ]
