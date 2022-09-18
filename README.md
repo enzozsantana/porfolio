@@ -1,4 +1,3 @@
 # portfolio
-Meu portfólio
 
-https://enzozsantana-portfolio.netlify.app
+<a href="https://enzozsantana.github.io/portfolio/">Meu portfólio</a>
