@@ -1,147 +1,147 @@
 {
-    "name": "Enzo Z de Sant'Ana",
-    "photo": "https://avatars.githubusercontent.com/u/89364741?v=4",
-    "job": "Dev Front-End Jr",
-    "location": "Praia Grande - SP",
-    "phone": "(13) 98808-7823",
-    "email": "enzozanattadesantana@gmail.com",
-    "skills": {
-      "hardSkills": [
-        {
-          "name": "Html5",
-          "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/html.png"
-        },
-        {
-          "name": "CSS3",
-          "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/css.png"
-        },
-        {
-          "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/js.png"
-        },
-        {
-          "name": "Git",
-          "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/git.png"
-        },
-        {
-          "name": "GitHub",
-          "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/github.png"
-        }
-      ],
-      "softSkills": [
-        "Comprometimento com resultados",
-        "Empatia",
-        "Flexibilidade",
-        "Organização",
-        "Trabalho em equipe"
-      ]
-    },
-    "languages": [
-      "Português BR",
-      "Inglês (intermediário)"
-    ],
-    "projects": [
+  "name": "Enzo Z de Sant'Ana",
+  "photo": "https://avatars.githubusercontent.com/u/89364741?v=4",
+  "job": "Dev Front-End Jr",
+  "location": "Praia Grande - SP",
+  "phone": "13988087823",
+  "email": "enzozanattadesantana@gmail.com",
+  "skills": {
+    "hardSkills": [
       {
-        "name": "Trilha JS Developer - Pokedex",
-        "url": "https://github.com/enzozsantana/pokedex-js-developer",
-        "github": true
+        "name": "Html5",
+        "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/html.png"
       },
       {
-        "name": "Space Shooter",
-        "url": "https://github.com/enzozsantana/space-shooter",
-        "github": true
+        "name": "CSS3",
+        "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/css.png"
       },
       {
-        "name": "Memory Game",
-        "url": "https://github.com/enzozsantana/memory-game",
-        "github": true
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/js.png"
       },
       {
-        "name": "Jogo da Velha",
-        "url": "https://github.com/enzozsantana/jogo-da-velha",
-        "github": true
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/git.png"
       },
       {
-        "name": "Pokedex",
-        "url": "https://github.com/enzozsantana/pokedex",
-        "github": true
-      },
-      {
-        "name": "Mario Jump",
-        "url": "https://github.com/enzozsantana/mario-jump",
-        "github": true
-      },
-      {
-        "name": "Clone Netflix",
-        "url": "https://github.com/enzozsantana/clone-netflix",
-        "github": true
-      },
-      {
-        "name": "League of Legends login screen",
-        "url": "https://github.com/enzozsantana/league-of-legends-login-screen",
-        "github": true
-      },
-      {
-        "name": "Spider-Man Multiverses",
-        "url": "https://github.com/enzozsantana/spider-man-multiverses",
-        "github": true
-      },
-      {
-        "name": "Pokemon Slider",
-        "url": "https://github.com/enzozsantana/pokemon-slider",
-        "github": true
-      },
-      {
-        "name": "Snake Game",
-        "url": "https://github.com/enzozsantana/snake-game-js",
-        "github": true
-      },
-      {
-        "name": "Game Mata Mosquito",
-        "url": "https://github.com/enzozsantana/app_game_mata_mosquito",
-        "github": true
-      },
-      {
-        "name": "Instagram Login Page",
-        "url": "https://github.com/enzozsantana/instagram-pagina-login",
-        "github": true
-      },
-        {
-        "name": "Calculadora",
-        "url": "https://github.com/enzozsantana/app-calculadora",
-        "github": true
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/github.png"
       }
     ],
-    "education": [
-       {
-        "name": "Formação JavaScript Developer",
-        "instituition" : "Digital Innovation One Inc.",
-        "url": "https://www.dio.me/certificate/FBA60816/share"
-      },
-      {
-        "name": "Formação HTML Web Developer",
-        "instituition" : "Digital Innovation One Inc.",
-        "url": "https://www.dio.me/certificate/B76CC90D/share"
-      },
-      {
-        "name": "Certificado de autoridade: React",
-        "instituition" : "DevMedia",
-        "url": "https://www.devmedia.com.br/certificado/tecnologia/react/enzo-zanatta-de-santana"
-      },
-      {
-        "name": "Certificado de autoridade: JavaScript",
-        "instituition" : "DevMedia",
-        "url": "https://www.devmedia.com.br/certificado/tecnologia/javascript/enzo-zanatta-de-santana"
-      },
-      {
-        "name": "Certificado de autoridade: CSS",
-        "instituition" : "DevMedia",
-        "url": "https://www.devmedia.com.br/certificado/tecnologia/css/enzo-zanatta-de-santana"
-      },
-      {
-        "name": "Certificado de autoridade: HTML",
-        "instituition" : "DevMedia",
-        "url": "https://www.devmedia.com.br/certificado/tecnologia/html/enzo-zanatta-de-santana"
-      }
+    "softSkills": [
+      "Comprometimento com resultados",
+      "Empatia",
+      "Flexibilidade",
+      "Organização",
+      "Trabalho em equipe"
     ]
-  }
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "projects": [
+    {
+      "name": "Trilha JS Developer - Pokedex",
+      "url": "https://github.com/enzozsantana/pokedex-js-developer",
+      "github": true
+    },
+    {
+      "name": "Space Shooter",
+      "url": "https://github.com/enzozsantana/space-shooter",
+      "github": true
+    },
+    {
+      "name": "Memory Game",
+      "url": "https://github.com/enzozsantana/memory-game",
+      "github": true
+    },
+    {
+      "name": "Jogo da Velha",
+      "url": "https://github.com/enzozsantana/jogo-da-velha",
+      "github": true
+    },
+    {
+      "name": "Pokedex",
+      "url": "https://github.com/enzozsantana/pokedex",
+      "github": true
+    },
+    {
+      "name": "Mario Jump",
+      "url": "https://github.com/enzozsantana/mario-jump",
+      "github": true
+    },
+    {
+      "name": "Clone Netflix",
+      "url": "https://github.com/enzozsantana/clone-netflix",
+      "github": true
+    },
+    {
+      "name": "League of Legends login screen",
+      "url": "https://github.com/enzozsantana/league-of-legends-login-screen",
+      "github": true
+    },
+    {
+      "name": "Spider-Man Multiverses",
+      "url": "https://github.com/enzozsantana/spider-man-multiverses",
+      "github": true
+    },
+    {
+      "name": "Pokemon Slider",
+      "url": "https://github.com/enzozsantana/pokemon-slider",
+      "github": true
+    },
+    {
+      "name": "Snake Game",
+      "url": "https://github.com/enzozsantana/snake-game-js",
+      "github": true
+    },
+    {
+      "name": "Game Mata Mosquito",
+      "url": "https://github.com/enzozsantana/app_game_mata_mosquito",
+      "github": true
+    },
+    {
+      "name": "Instagram Login Page",
+      "url": "https://github.com/enzozsantana/instagram-pagina-login",
+      "github": true
+    },
+      {
+      "name": "Calculadora",
+      "url": "https://github.com/enzozsantana/app-calculadora",
+      "github": true
+    }
+  ],
+  "education": [
+     {
+      "name": "Formação JavaScript Developer",
+      "instituition" : "Digital Innovation One Inc.",
+      "url": "https://www.dio.me/certificate/FBA60816/share"
+    },
+    {
+      "name": "Formação HTML Web Developer",
+      "instituition" : "Digital Innovation One Inc.",
+      "url": "https://www.dio.me/certificate/B76CC90D/share"
+    },
+    {
+      "name": "Certificado de autoridade: React",
+      "instituition" : "DevMedia",
+      "url": "https://www.devmedia.com.br/certificado/tecnologia/react/enzo-zanatta-de-santana"
+    },
+    {
+      "name": "Certificado de autoridade: JavaScript",
+      "instituition" : "DevMedia",
+      "url": "https://www.devmedia.com.br/certificado/tecnologia/javascript/enzo-zanatta-de-santana"
+    },
+    {
+      "name": "Certificado de autoridade: CSS",
+      "instituition" : "DevMedia",
+      "url": "https://www.devmedia.com.br/certificado/tecnologia/css/enzo-zanatta-de-santana"
+    },
+    {
+      "name": "Certificado de autoridade: HTML",
+      "instituition" : "DevMedia",
+      "url": "https://www.devmedia.com.br/certificado/tecnologia/html/enzo-zanatta-de-santana"
+    }
+  ]
+}
