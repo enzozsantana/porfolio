@@ -20,12 +20,12 @@
         "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/js.png"
       },
       {
-        "name": "Git",
-        "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/git.png"
+        "name": "ReactJS",
+        "logo": "https://raw.githubusercontent.com/enzozsantana/portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "GitHub",
-        "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/github.png"
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/enzozsantana/porfolio/main/data/imgs/git.png"
       }
     ],
     "softSkills": [
