@@ -42,6 +42,11 @@
   ],
   "projects": [
     {
+      "name": "GitFind",
+      "url": "https://github.com/enzozsantana/gitfind",
+      "github": true
+    },
+    {
       "name": "Trilha JS Developer - Pokedex",
       "url": "https://github.com/enzozsantana/pokedex-js-developer",
       "github": true
