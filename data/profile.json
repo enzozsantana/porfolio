@@ -120,7 +120,8 @@
   "education": [
      {
       "name": "Ensino Superior cursando - Engenharia de Software",
-      "instituition" : "Uninter (2022 - 2026)"
+      "instituition" : "Uninter (2022 - 2026)",
+      "url": "https://enzozsantana.github.io/portfolio/"
     },
     {
       "name": "Formação JavaScript Developer",
