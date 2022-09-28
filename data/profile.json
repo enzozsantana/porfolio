@@ -42,6 +42,11 @@
   ],
   "projects": [
     {
+      "name": "To Do List",
+      "url": "https://github.com/enzozsantana/todo-list",
+      "github": true
+    },
+    {
       "name": "React Calculator",
       "url": "https://github.com/enzozsantana/react-calculator",
       "github": true
@@ -127,6 +132,11 @@
       "name": "Ensino Superior cursando - Engenharia de Software",
       "instituition" : "Uninter (2022 - 2026)",
       "url": "https://enzozsantana.github.io/portfolio/"
+    },
+    {
+      "name": "Formação React Developer",
+      "instituition" : "Digital Innovation One Inc.",
+      "url": "https://www.dio.me/certificate/DCDA39F3/share"
     },
     {
       "name": "Formação JavaScript Developer",
